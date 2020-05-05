@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+textarea {
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+height: auto;
+float: center;
+align-items: center;
+}
+
+.counter {
+    text-align: center;
+}
